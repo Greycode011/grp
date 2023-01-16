@@ -1,0 +1,7 @@
+{
+  "name": "GRP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
